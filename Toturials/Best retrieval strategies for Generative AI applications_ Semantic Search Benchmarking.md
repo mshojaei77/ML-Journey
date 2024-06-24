@@ -4,6 +4,8 @@ In today's blog post, we delve into a captivating episode from the AI show where
 
 The insights derived here not only extend beyond AI but also offer invaluable benefits to various general search use cases. If you're involved in search technologies or AI, this is your go-to guide!
 
+[![Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking](https://img.youtube.com/vi/odQTIAItkv8/0.jpg)](https://www.youtube.com/watch?v=odQTIAItkv8)
+
 ## Table of Contents
 
 1. [Introduction to Semantic Search](#introduction-to-semantic-search)
