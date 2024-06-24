@@ -26,17 +26,9 @@ git clone https://github.com/yourusername/llms-from-scratch.git
 cd llms-from-scratch
 ```
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute, please follow our [contribution guidelines](./CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
 ## Contact
 
-For any questions or inquiries, please open an issue in the repository or contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please open an issue in the repository or contact us at `shojaei.dev@gmail.com`
 
 ---
 
