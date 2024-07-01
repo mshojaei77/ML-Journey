@@ -6,5 +6,5 @@ Welcome to my Machine Learning Learning Path repository! This repository documen
 
 | Concept Learned | Learning Source | Practice Projects |
 |-----------------|-----------------|---------------------|
-| **Linear Regression** | Online Course: **"Machine Learning" by Andrew Ng** | - **Project 1: [Predicting Compute Requirements for AI Models in 2025](https://github.com/mshojaei77/ML-Journey/blob/main/Linear_Regression1.ipynb)**<br>- **Project 2: Linear Regression with PyTorch** |
+| **Linear Regression** | Online Course: **"Machine Learning" by Andrew Ng** | **[Predicting Compute Requirements for AI Models in 2025](https://github.com/mshojaei77/ML-Journey/blob/main/Linear_Regression1.ipynb)** |
 
