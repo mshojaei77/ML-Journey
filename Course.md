@@ -12,7 +12,7 @@
 **Project**: Build a model to recommend high-quality, underrated movies to promote diverse storytelling.  
 - **Why it’s important**: Helps smaller filmmakers gain visibility and audiences discover meaningful content.  
 - **Skills**: Data cleaning, recommendation systems, evaluation metrics.  
-- **Dataset**: Use the [IMDb Dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset) from Kaggle.  
+- **Dataset**: Use the [IMDb Dataset](https://www.kaggle.com/datasets/simhyunsu/imdbextensivedataset) from Kaggle.  
 - **Tools**: Pandas, Scikit-learn.  
 - **Impact**: Encourages diversity in media consumption and supports independent filmmakers.  
 - **Tweetable**: "Built a movie recommendation system to promote underrated films! 🎬🍿 Helping diverse stories reach wider audiences. #MachineLearning #CommunityImpact"
