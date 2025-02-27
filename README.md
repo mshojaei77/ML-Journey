@@ -2,11 +2,11 @@
 
 This learning path is designed for hands-on learning.  You'll build practical skills through Colab notebooks and reinforce theoretical concepts with curated YouTube video resources. Each practical section includes a real-world problem assignment to solidify your understanding and build a portfolio.
 
-**Phase 1: Essential Foundations: Math, Stats, and Coding**
+# Phase 1: Essential Foundations: Math, Stats, and Coding
 
 This phase builds the bedrock for your ML journey. You'll solidify essential mathematical, statistical, and programming skills necessary for understanding and implementing machine learning algorithms.
 
-**1. Introduction to Machine Learning & Core Concepts (Theory - YouTube):**
+## 1. Introduction to Machine Learning & Core Concepts (Theory - YouTube):
 
 *   **Focus:** Define Machine Learning, Artificial Intelligence, and Deep Learning. Understand the core idea of learning from data, different ML categories (Supervised, Unsupervised, Reinforcement, Semi-supervised), and real-world applications. Differentiate between ML and DL, and Clustering and Classification.
 *   **Key Concepts:** AI, ML, DL Definitions, Data-driven Decisions, Supervised/Unsupervised/Reinforcement/Semi-supervised Learning, Applications, ML vs. DL, Clustering vs. Classification.
