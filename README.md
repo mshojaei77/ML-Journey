@@ -11,7 +11,7 @@ This phase builds the bedrock for your ML journey. You'll solidify essential mat
 *   **Focus:** Define Machine Learning, Artificial Intelligence, and Deep Learning. Understand the core idea of learning from data, different ML categories (Supervised, Unsupervised, Reinforcement, Semi-supervised), and real-world applications. Differentiate between ML and DL, and Clustering and Classification. Understand the importance of data-driven decision making and the difference between explicit programming and learning from data.
 *   **Key Concepts:** AI, ML, DL Definitions, Data-driven Decisions, Explicit Programming vs. Learning from Data, Supervised/Unsupervised/Reinforcement/Semi-supervised Learning, Applications (Image Recognition, NLP, Fraud Detection, Recommendation Systems, Self-driving cars), ML vs. DL (Data Dependency, Feature Engineering, Model Complexity, Interpretability), Clustering vs. Classification (Learning Type, Goal, Output, Data Labels), Business Applications of Supervised Learning, Unsupervised Learning Techniques (Clustering, Dimensionality Reduction, Association Rule Learning).
 *   **YouTube Search Terms:** "Introduction to Machine Learning", "What is Artificial Intelligence", "Machine Learning vs Deep Learning", "Supervised vs Unsupervised Learning", "Reinforcement Learning explained", "Applications of Machine Learning".
-*   **Example Video:** [Machine Learning Full Course - Learn Machine Learning 10 Hours | Edureka](https://www.youtube.com/watch?v=MlK6r_o7ikk)
+*   **Example Video:** [All Machine Learning algorithms explained in 17 min](https://www.youtube.com/watch?v=E0Hmnixke2g)
 
 ### 2. Basic Statistics & Probability for Machine Learning (Theory - YouTube)
 
